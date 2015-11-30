@@ -1,0 +1,28 @@
+name: London Prestige Car
+favicon: null
+layout_spectrum: 0.988345185527578
+typography_spectrum: 0.9997189650312066
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9779125505592674
+  lightness: 0.5417990381829441
+  saturation: 0.4711918563116342
+  rhythmicContrast: 0.2316376082599163
+purpose: []
